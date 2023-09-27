@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RndNumberFirst</string>
+    <string name="noValue">Пока значение отсутствует</string>
+    <string name="txtButton">Нажми для генерации числа</string>
 </resources>
